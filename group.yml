@@ -4,7 +4,7 @@ metadata:
   name: iris-rest-api
   description: The infra business unit
 spec:
-  type: health
+  type: health-IT
   profile:
     displayName: Infrastructure
     email: infrastructure@example.com
